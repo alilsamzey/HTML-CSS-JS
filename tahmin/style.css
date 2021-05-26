@@ -1,0 +1,83 @@
+.tekrar{
+   
+    width:200px;
+    min-height: 90px;
+    display:inline;
+}
+.sagust{
+    
+   
+    display:inline;
+    
+    
+}
+.baslik{
+    display:inline;
+    text-align:center;
+}
+header{
+    background-color:aqua;
+    font-weight: bold;
+    min-height: 250px;
+    padding:20px;
+    
+}
+.soruisareti{
+
+margin: auto;
+  width:200px;
+  
+
+
+}
+.soru{
+    text-align: center;
+    border:1px solid black;
+    background-color:aquamarine
+}
+.section1{
+    
+   width:50%;
+  
+}
+.kontrolet{
+    display:block;
+     width:160px;
+     min-height: 100px;;
+    margin-left:30%;
+    margin-top:10px;
+    
+}
+.input{
+    display:block;
+    width:160px;
+    margin-left:30%;
+    min-height: 100px;
+    
+    background-color: darkorange;
+}
+.section2{
+    
+    width: 50%;
+    font-size: 20px;
+    font-weight: bold;
+    min-height: 500px;
+    
+    
+}
+.main{
+   background-color:aqua;
+    min-height: 400px;
+    padding:20px;
+}
+.tbd{
+min-height: 60%;
+display: flex;
+  align-items: center;
+  justify-content: center;
+  
+
+}
+.p1, .p2 {
+    text-align: left;
+}

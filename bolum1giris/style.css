@@ -1,0 +1,61 @@
+*{
+    background-color:aquamarine;
+    float:unset;
+}
+.resim{
+    width:40%;
+    margin: auto;
+    padding: 40px;
+    height: 300px;
+    width: 250px;
+
+}
+.baslik{
+    border:solid 2px;
+    height:120px;
+    
+   
+    background-color:blue;
+    font-size: large;
+    font-size: 250%;
+    color: White;
+    vertical-align: text-top;
+    padding: 3px 0;
+    border: 1px solid green;
+
+}
+.hos{
+    background-color:red;
+    text-align:center;
+    font-size: 170%;
+}
+.rs{
+     display: inline-block; 
+     height:100px; width:100px; 
+     margin:5px 5px;
+     
+     float:left;
+     vertical-align: baseline;
+     vertical-align: text-top;
+    }
+    
+h1{
+    display: inline-block;
+    font-size: 100%;
+    background-color:blue;
+    margin-top: 0px;
+    padding: 10px;
+    float: right;
+}
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .r{
+    float: center;
+    padding: 0.4%;
+  }
+  .navbar{
+      background-color:brown;
+  }

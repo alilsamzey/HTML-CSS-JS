@@ -1,0 +1,11 @@
+table{
+   width: 40%;
+   min-height: 200px;
+  border: solid;
+  border-collapse: collapse;
+  
+}
+td{
+    text-align: center;
+    border: solid;
+}
