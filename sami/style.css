@@ -1,0 +1,19 @@
+.header{
+    min-height: 90px;
+    background-color:rgb(18, 184, 184);
+    padding-top:25px;
+    -ms-text-size-adjust: 100px;
+}
+
+.videolarim{
+    background-color: rgb(189, 228, 189);
+    width: 100%;
+    min-height: 400px; 
+}
+.vBaslik{
+    background-color:rgb(213, 187, 238);
+}
+.video{
+    padding-left:7%;
+    
+}

@@ -1,4 +1,4 @@
-const renkler= ["green", "red" , "blue", "yellow", "black", "white"];
+const renkler= ["green", "red" , "blue", "yellow", "black", "white", "blue"];
 let flag=0;
 document.querySelector(".btn").onclick= renkSec;
 
