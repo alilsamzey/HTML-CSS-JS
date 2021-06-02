@@ -10,6 +10,9 @@ body{
 section1{
 float:left;    
 }
+.yorum{
+    max-width: 200px;
+}
 
 .container{
     border: 1px solid;
